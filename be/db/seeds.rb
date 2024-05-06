@@ -7,3 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Message.create!(text: "Welcome to our Full Stack App!")
 Message.create!(text: "App is up and running. Let's do it to it.")
+Message.create!(text: "We created an extra message.")
+Message.create!(text: "This is the last now.")
